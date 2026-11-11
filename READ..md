@@ -5,10 +5,10 @@ Proyek Mini Individu Website Profil & Katalog Dinamis Berbasis PHP Dasar.
 ---
 
 ## 1. Identitas Mahasiswa
-- **Nama Lengkap** : [Nama Lengkap Anda]
-- **NIM**          : [NIM Anda, contoh: 230101001]
-- **Kelas**        : [Kelas Anda, contoh: TI-3A]
-- **Mata Kuliah**  : Pemrograman Web (253A23W15)
+- **Nama Lengkap** : Diandaru Irfansyah Fathiin
+- **NIM**          : 025A00200009
+- **Kelas**        : Kelas Malam
+- **Mata Kuliah**  : Pemrograman Web 
 - **Program Studi**: S1 Informatika, Fakultas Teknik, Tiga Serangkai University
 
 ---
