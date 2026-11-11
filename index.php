@@ -3,7 +3,7 @@ session_start();
 require_once 'data.php';
 require_once 'functions.php';
 
-// Inisialisasi session data sepatu jika belum ada
+unset($_SESSION['sepatu_list']);
 if (!isset($_SESSION['sepatu_list'])) {
     $_SESSION['sepatu_list'] = $sepatu_list;
 }
